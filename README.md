@@ -1,3 +1,3 @@
-# Data-Analysis-Projects
+# data-analysis-projects
 This repository contains Data Analysis projects that I have worked on.
 Please feel free to check out my work.
